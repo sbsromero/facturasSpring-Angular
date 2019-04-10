@@ -1,0 +1,7 @@
+{
+"properties":
+	[{
+		"name": "demo.controller.title",
+		"type": "java.lang.String"
+	}]
+}
